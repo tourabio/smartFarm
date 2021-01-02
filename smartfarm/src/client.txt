@@ -1,0 +1,5 @@
+cin nom prenom femme non 23/12/2020 tel3 add email
+cin1 aze aze homme non 21/12/2020 aze aze aze
+id1 aze aze femme non 1/1/2021 azezz azezz azezz
+cin2 aze aze femme non 8/12/2020 aze aze aze
+cin3 aze aze femme oui 23/12/2020 tel adres em

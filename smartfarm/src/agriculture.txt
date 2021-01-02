@@ -1,0 +1,2 @@
+id nom fruit O- 1/12/2020 2/12/2021 3/12/2021 4/12/2020 fruits_a_noyau 8
+id1 aze legume O- 7/12/2020 5/12/2020 5/12/2020 7/12/2020 légumes_fleurs 8

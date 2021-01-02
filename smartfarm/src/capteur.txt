@@ -1,0 +1,9 @@
+1 temperature Suunto D A-C 7/12/2020 1
+2 temperature Garmin D A-C 7/12/2020 1
+3 temperature Polar D A-C 7/12/2020 0
+4 temperature Bryton D A-C 7/12/2020 1
+5 temperature Polar D A-C 7/12/2020 0
+6 temperature Suunto D A-C 7/12/2020 0
+7 temperature Polar D A-C 7/12/2020 1
+8 temperature Suunto D A-C 7/12/2020 0
+9 temperature Polar D A-C 7/12/2020 0
